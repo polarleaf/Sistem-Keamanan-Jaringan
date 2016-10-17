@@ -1,6 +1,8 @@
 #International Standards Organization (ISO)
 
-<src img="/img/abs.jpg">
+<p align="center">
+  <img src="/img/abs.jpg" width="400px">
+</p>
 
 
 OSI ini adalah sebuah konsep model standard OSI yang mencakup segala aspek. seperti halnya komunikasi telekomunikasi ataupun system di dalam komputer.
