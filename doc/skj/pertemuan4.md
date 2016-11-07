@@ -1,7 +1,7 @@
 #Sniffing
 
 <p align="center">
-  <img src="/img/abs1.jpg" width="400px">
+  <img src="/img/abs1.png" width="400px">
 </p>
 
 Sniffing adalah sebuah proses dimana kita bisa membaca paket jaringan, ip address dari satu node ke node lain. 
