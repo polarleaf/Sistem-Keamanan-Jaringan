@@ -3,7 +3,7 @@
 #Install Sbort di CentOS
 
 <p align="center">
-  <img src="/img/06.png" width="400px">
+  <img src="/img/snort.png" width="400px">
 </p>
 
 
