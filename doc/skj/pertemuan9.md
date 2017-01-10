@@ -1,4 +1,4 @@
-IDS & IPS
+#IDS & IPS
 
 <p align="center">
   <img src="/img/IDS-IPS.png" width="400px">
@@ -13,12 +13,16 @@ IDS(Instrusion Detection System) merupakan sebuah perangkat yang berisi beberapa
 
 Perbedaan antara IDS dan IPS terletak pada fungsinya, IDS berfungsi untuk membuat log/alert sedangkan IPS berfungsi untuk memblock.
 
-IDS
+--IDS
+
 a)      Network-based Intrusion Detection System (NIDS)
+
 b)      Host-based Intrusion Detection System (HIDS)
 
-IPS 
+--IPS 
+
 a)      Host-based Intrusion Prevention System.
+
 b)      Network Intrusion Prevention System.
 
 
