@@ -1,4 +1,4 @@
-#International Standards Organization (ISO)
+#iInternational Standards Organization (ISO)
 
 <p align="center">
   <img src="/img/abs.jpg" width="400px">
